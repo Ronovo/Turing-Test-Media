@@ -20,13 +20,11 @@ Specifically covering songs from some of my favorite Horror Movies/Games, as wel
 
 # Files:
 Code
-  - NonLive Files - Individual Song Files
-  - Whole Album.rb
-    - Non-Live playthrough of the album.
-    - Copy and paste into sonic pi, change sample directory, then hit play.
+  - NonLive Files 
+    - Individual Song Files
 
 Samples
- -N/A. 0 Samples used.
+ - N/A. 0 Samples used.
  
 # To Remix
 - Message ThankMrSkeletal2016, and be added as a Collaborator
